@@ -1,0 +1,6 @@
+com/sn/edacy/appwebedacy/UserController.class
+com/sn/edacy/appwebedacy/AppWebEdacyApplication.class
+com/sn/edacy/appwebedacy/entities/User.class
+com/sn/edacy/appwebedacy/SwaggerConfig.class
+com/sn/edacy/appwebedacy/repositories/UserRepository.class
+com/sn/edacy/appwebedacy/HelloEdacy.class
